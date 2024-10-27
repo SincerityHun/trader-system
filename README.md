@@ -1,5 +1,11 @@
 # trader-system
 
+<<<<<<< HEAD
+=======
+- Prototype Architecture (ver1)
+
+<img src="./assets/prototype_ver1.jpg" alt="architecture" width="400"/>
+>>>>>>> eb3f7ca (pro_ver1)Dev Setting - frontend,backend)
 
 ### Local Debuging/Dev Environment
 1. git clone the repository
