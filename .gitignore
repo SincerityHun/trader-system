@@ -1,2 +1,2 @@
-db/mongo_data/
-web-server/backend/__pycache__/
+.kube
+.vscode

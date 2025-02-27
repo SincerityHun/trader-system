@@ -2,8 +2,6 @@
 
 - Prototype Architecture (ver1)
 
-<img src="./assets/prototype_ver1.jpg" alt="architecture" width="400"/>
-
 ### Local Debuging/Dev Environment
 1. git clone the repository
 
@@ -19,6 +17,9 @@
 
     - Real Time Debugging is available.
     - you need ***docker and docker-compose*** for dev
+
+### Architecture
+1. 
 
 ### Release Pipeline
 1차 프로토타입 완성 이후에 무중단 자동화 파이프라인 구축 예정
